@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\shian\source\repos\shianwen\Wen_Cpts223\MA2\BST.h(159,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shian\source\repos\shianwen\Wen_Cpts223\MA2\BST.h(148,1): message : while compiling class template member function 'void BST<int>::printLevelOrderHelper(Node<T> *)'
+          with
+          [
+              T=int
+          ]
+C:\Users\shian\source\repos\shianwen\Wen_Cpts223\MA2\BST.h(233,24): message : see reference to function template instantiation 'void BST<int>::printLevelOrderHelper(Node<T> *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\shian\source\repos\shianwen\Wen_Cpts223\MA2\main.cpp(5,33): message : see reference to class template instantiation 'BST<int>' being compiled
+C:\Users\shian\source\repos\shianwen\Wen_Cpts223\MA2\BST.h(145): warning C4715: 'BST<int>::containsHelper': not all control paths return a value
+  MA2.vcxproj -> C:\Users\shian\source\repos\shianwen\Wen_Cpts223\x64\Debug\MA2.exe
