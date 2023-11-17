@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(39,11): error C3861: 'array': identifier not found
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(144,2): message : see reference to class template instantiation 'Heap<T>' being compiled
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(40,23): error C2065: 'currentSize': undeclared identifier
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(40,23): error C3861: 'currentSize': identifier not found
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(43,17): error C2065: 'currentSize': undeclared identifier
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(43,17): error C3861: 'currentSize': identifier not found
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(43,32): error C2065: 'array': undeclared identifier
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(43,32): error C3861: 'array': identifier not found
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(43,51): error C3861: 'array': identifier not found
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(45,8): error C3861: 'array': identifier not found
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(46,5): error C3861: 'array': identifier not found
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(46,19): error C3861: 'array': identifier not found
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(50,3): error C3861: 'array': identifier not found
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(39,11): error C2065: 'array': undeclared identifier
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(43,51): error C2065: 'array': undeclared identifier
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(45,8): error C2065: 'array': undeclared identifier
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(46,5): error C2065: 'array': undeclared identifier
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(46,19): error C2065: 'array': undeclared identifier
+C:\Users\shian\Downloads\MA4_start_code\MA4_start_code\Heap.h(50,3): error C2065: 'array': undeclared identifier
